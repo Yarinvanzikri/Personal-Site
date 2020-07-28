@@ -1,0 +1,140 @@
+body {
+  margin: 0 ;
+  text-align: center;
+  font-family: 'Libre Baskerville', serif;
+  background-color: #EAF6F6;
+}
+hr{
+  border-top: 10px dotted #a5b5b5 ;
+  width: 10%;
+  border-bottom: none;
+  border-left: none;
+  border-right: none;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  padding-top: 100px;
+  font-family: 'Sacramento', cursive;
+  font-size: 7.625rem;
+  color:#66BFBF;
+  line-height: 2;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color:#66BFBF;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color:#11999E;
+}
+a {
+  color:#11999E;
+}
+.top-container {
+  background-color: #EAF6F6;
+  margin-top: 0;
+  margin-bottom: 0;
+  position: relative;
+
+}
+
+.middle-container {
+  background-color: #fffafa;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 700px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 700px;
+  bottom: 300px;
+}
+
+.profile-image {
+  width: 500px;
+  height: 500px;
+}
+
+.sail3 {
+  width: 25%;
+  float:left;
+  margin-right: 30px;
+}
+
+.sail2{
+  width: 25%;
+  float:right;
+  margin-left: 30px;
+}
+
+.sail1 {
+  width:15%;
+  margin:auto;
+}
+
+.programmer{
+  font-weight: normal;
+}
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  line-height: 2;
+  text-align: left;
+}
+.my-skills {margin: 0 auto 0 auto;}
+.white{color: #EAF6F6}
+
+.contact-me-btn {
+-webkit-border-radius: 20px;
+-moz-border-radius: 20px;
+border-radius: 20px;
+height: 0px;
+line-height: 0px;
+font-family: sans-serif;
+color: white;
+width: 235px;
+font-size: 40px;
+font-weight: 700;
+padding: 40px;
+background-color: #66BFBF;
+box-shadow: 1px 1px 20px 0px #000000;
+-webkit-box-shadow: 1px 1px 20px 0px #000000;
+-moz-box-shadow: 1px 1px 20px 0px #000000;
+text-shadow: 1px 1px 20px #000000;
+border: solid #000000 3px;
+text-decoration: none;
+display: inline-block;
+cursor: pointer;
+text-align: center;
+}
+
+.contact-me-btn:hover {
+background: #BFB409;
+border: solid #FFAE00 1px;
+-webkit-border-radius: 20px;
+-moz-border-radius: 20px;
+border-radius: 20px;
+text-decoration: none;
+}
+
+.footer-link{
+  display:inline-block;
+  width: 150px;
+
+}
